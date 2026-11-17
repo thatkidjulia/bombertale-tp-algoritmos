@@ -1,6 +1,6 @@
 # Bomber...tale?
 
-Um jogo de arena para dois jogadores, inspirado em **Bomberman** e com uma temática baseada em **Undertale**. Este projeto foi desenvolvido em C com a biblioteca **raylib** como trabalho final da disciplina de Algoritmos, no primeiro período da faculdade.
+Um jogo de arena para dois jogadores, inspirado em **Bomberman** e com uma temática baseada em **Undertale**. Este projeto foi desenvolvido em C com a biblioteca **raylib** como trabalho final da disciplina de Algoritmos, no primeiro período da faculdade (2023/2).
 
 ## Sobre o jogo
 
